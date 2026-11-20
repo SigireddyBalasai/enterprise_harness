@@ -1,3 +1,9 @@
 [submodule "agent"]
 	path = agent
 	url = https://github.com/SigireddyBalasai/enterprise_ai.git
+[submodule "auth_server"]
+	path = auth_server
+	url = https://github.com/SigireddyBalasai/auth_server.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SigireddyBalasai/frontend.git
